@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jatin-dhingra
 - 👀 I’m interested in competitive programming and Problem solving.
-- 🌱 I’m currently learning C++, DSA, Django framework, Node-js
+- 🌱 I’m currently learning DSA, Django framework, Node-js, MongoDB, Oracle DataBase
+- 📚 Programming Languages: C++/C , Python
 - 📫 You can contact me on:
     mail: jatindhingra.dhingra99@gmail.com
     
