@@ -4,6 +4,7 @@
 - 📚 Programming Languages: C++/C , Python
 - 📫 You can contact me on:
     mail: jatindhingra.dhingra99@gmail.com
+- FEEL FREE TO CONTACT!
     
 
 <!---
