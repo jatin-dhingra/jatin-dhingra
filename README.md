@@ -4,7 +4,7 @@
 - 🏦 I'm a Third year student at VIT Vellore currently undertaking my bachelors in Information Technology
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp; I'm a Software Developer with an experience in Development  particular expertise in Web Apps.
       
-- 💻 I use daily **.js**, **.sql**, **.php**, **.css**, **.html**
+- 💻 I use daily **.cpp**, **.js**, **.sql**, **.php**, **.css**, **.html**
 - 👯 You can find me on  
 <a href="https://www.linkedin.com/in/jatin-dhingra-3a48a519a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jatin-dhingra" height="20" width="20" /></a>&nbsp;.
 
