@@ -11,6 +11,8 @@
 ---
 ### Things I code with
 <p align="center">
+     
+      <img alt="JavaScript" src=" https://img.shields.io/badge/-CPP-430098?style=flat-square&logo=CPP&logoColor=white" />
       <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-430098?style=flat-square&logo=JavaScript&logoColor=white" />
       <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-CB3837?style=flat-square&logo=Node.js&logoColor=white" />
       <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
