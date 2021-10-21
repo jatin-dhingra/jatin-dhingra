@@ -37,8 +37,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jatin-dhingra-3a48a519a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jatin-dhingra" height="30" width="30" /></a>&nbsp;
-
-<a href="https://codeforces.com/profile/jatindhingra19" target="_blank"><img align="center" alt="UB24" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" /></a>
+<a href="https://codeforces.com/profile/jatindhingra19" target="_blank"><img align="center" alt="UB24" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" /></a>&nbsp;
 <a href="https://www.codechef.com/users/jatin_192000" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="jatin192001" height="30" width="30" /></a>&nbsp;
 </p>
 
