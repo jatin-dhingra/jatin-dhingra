@@ -35,11 +35,11 @@
 <br />
 
 <p align="center">
-<a href="https://twitter.com/ujjwal24batra" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ujjwal24batra" height="30" width="30" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/ujjwal24batra/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ujjwal24batra" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/kudb#8688" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="kudb#8688" height="40" width="30" /></a>&nbsp;
-<a href="https://codeforces.com/profile/UB24" target="_blank"><img align="center" alt="UB24" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" /></a>
-<a href="https://www.codechef.com/users/kudb" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="kudb" height="30" width="30" /></a>&nbsp;
+
+<a href="https://www.linkedin.com/in/jatin-dhingra-3a48a519a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jatin-dhingra" height="30" width="30" /></a>&nbsp;
+
+<a href="https://codeforces.com/profile/jatindhingra19" target="_blank"><img align="center" alt="UB24" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" /></a>
+<a href="https://www.codechef.com/users/jatin_192000" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="jatin192001" height="30" width="30" /></a>&nbsp;
 </p>
 
 ---
