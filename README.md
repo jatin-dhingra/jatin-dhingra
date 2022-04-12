@@ -36,7 +36,7 @@
 <br />
 
 <p align="center">
-
+<p align="center">
 <a href="https://www.linkedin.com/in/jatin-dhingra-3a48a519a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jatin-dhingra" height="30" width="30" /></a>&nbsp;
 <a href="https://leetcode.com/jatin_dhingra/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="jatin_dhingra" height="30" width="30" /></a>&nbsp;
 <a href="https://twitter.com/Jatin19012000" target="_blank"><img align="center" alt="Jatin19012000" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" /></a>&nbsp;
