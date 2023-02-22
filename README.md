@@ -31,10 +31,6 @@
 ![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=jatin-dhingra&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-dhingra&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 
-⏳ **Year Progress** { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 45.76 % as on ⏰ 17-6-2021.
-<br />
-<br />
-
 <p align="center">
 <p align="center">
 <a href="https://www.linkedin.com/in/jatin-dhingra-3a48a519a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jatin-dhingra" height="30" width="30" /></a>&nbsp;
