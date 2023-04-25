@@ -1,7 +1,7 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a Third year student at VIT Vellore currently undertaking my bachelors in Information Technology
+- 🏦 I'm a Final year student at VIT Vellore currently undertaking my bachelors in Information Technology
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="5">&nbsp; I'm a Software Developer with an experience in Development  particular expertise in Web Apps.
       
 - 💻 I use daily **.cpp**, **.js**, **.sql**, **.css**, **.html**, **.php**.
